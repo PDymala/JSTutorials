@@ -1,0 +1,10 @@
+{
+    "name": "lead",
+    "manifest_version": 3,
+    "version": "1",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "asterisk.svg"
+    },
+    "permissions": ["tabs"]
+}
