@@ -1,0 +1,1 @@
+Randomize the bg color
